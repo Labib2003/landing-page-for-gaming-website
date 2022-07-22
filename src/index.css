@@ -16,6 +16,10 @@ code {
   font-family: 'Saira';
 }
 
+.poppins {
+  font-family: 'Poppins';
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
