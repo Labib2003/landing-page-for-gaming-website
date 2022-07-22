@@ -10,10 +10,10 @@ const LandingPage = () => {
                 </div>
                 <div class="hero-overlay bg-opacity-60"></div>
                 <div class="hero-content text-center text-white">
-                    <div class="max-w-md">
-                        <h1 class="mb-5 text-5xl font-bold">Evolve Your Gaming Experience</h1>
-                        <p class="mb-5">Play with friends or compete against rivals from around the world</p>
-                        <button>Join Now</button>
+                    <div class="uppercase">
+                        <h1 class="max-w-[50rem] mx-auto mb-7 text-7xl font-bold leading-normal tracking-wide">Evolve Your Gaming Experience</h1>
+                        <p class="max-w-4xl mx-auto mb-16 text-2xl font-bold">Play with friends or compete against rivals from around the world</p>
+                        <div className='bg-white text-black text-lg w-96 mx-auto px-32 py-6 rounded'>Join Now</div>
                     </div>
                 </div>
             </div>
