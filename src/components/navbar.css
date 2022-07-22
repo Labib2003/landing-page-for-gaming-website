@@ -1,0 +1,11 @@
+.custom-button {
+    transform: skew(-20deg);
+    height: 100%;
+    border-radius: 0% !important;
+    border: 1px solid white !important;
+    margin: 0 !important;
+}
+
+.custom-button > p {
+    transform: skew(20deg);
+}
